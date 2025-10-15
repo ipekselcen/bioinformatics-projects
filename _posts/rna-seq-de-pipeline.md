@@ -1,3 +1,9 @@
+---
+title: "RNA-seq Differential Expression Pipeline"
+layout: single
+permalink: /rna-seq-de-pipeline/
+---
+
 # RNA-seq Differential Expression Pipeline
 ![QC Plot](figures/qc_plot.png)
 
