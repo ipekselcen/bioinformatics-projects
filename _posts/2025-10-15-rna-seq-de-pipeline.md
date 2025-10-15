@@ -2,6 +2,8 @@
 title: "RNA-seq Differential Expression Pipeline"
 layout: single
 permalink: /rna-seq-de-pipeline/
+categories: [pipelines]
+tags: [RNA-seq, DESeq2, reproducibility]
 ---
 
 # RNA-seq Differential Expression Pipeline
