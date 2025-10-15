@@ -1,12 +1,12 @@
 ---
-title: "Editorial Portfolio"
+title: "Bioinformatics Projects"
 layout: single
 permalink: /
 author_profile: true
 author: ipek
 classes: wide
 toc: false
-description: "Selected scientific writing and editorial samples by Ipek Selcen."
+description: "Reproducibility and polished figures"
 ---
 
 Welcome — this is a focused collection of my **scientific writing and editorial work**.
