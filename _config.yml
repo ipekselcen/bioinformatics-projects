@@ -1,7 +1,7 @@
-title: "Ipek Selcen - Editorial Portfolio"
-description: "Writing, mini-reviews, and scientific editing samples."
+title: "Ipek Selcen - Bioinformatics Projects"
+description: "Bioinformatics"
 url: "https://ipekselcen.github.io"  
-baseurl: "/editorial-portfolio"    
+baseurl: "/bioinformatics-projects"    
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
