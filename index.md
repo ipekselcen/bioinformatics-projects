@@ -2,12 +2,12 @@
 title: "Bioinformatics Projects"
 layout: single
 permalink: /
-author_profile: true
-author: ipek
 classes: wide
-toc: false
-description: "Reproducibility and polished figures"
 ---
 
 Selected analysis pipelines and notes.
+
+- **RNA-seq Differential Expression Pipeline**  
+  <a class="btn btn--primary" href="{{ '/rna-seq-de-pipeline/' | relative_url }}">Open →</a>
+
 
